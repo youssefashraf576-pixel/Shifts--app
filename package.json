@@ -1,0 +1,13 @@
+{
+  "name": "shift-requests-app",
+  "version": "1.0.0",
+  "description": "Weekly Shift and Leave Request System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["shift", "management", "roster", "attendance"],
+  "author": "Yousef Ashraf",
+  "license": "MIT",
+  "dependencies": {}
+}
